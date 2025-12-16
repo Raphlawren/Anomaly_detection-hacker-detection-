@@ -26,4 +26,3 @@ SVM (baseline)
 I tested an SVM approach and evaluated it using ROC_AUC and classification performance metrics. 
 The model performed strongly better, and SVM is a reliable baseline for datasets with large features. 
 
-#MachineLearning #Cybersecurity #AnomalyDetection #DataScience #Python
